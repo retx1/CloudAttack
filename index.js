@@ -1,5 +1,5 @@
 var cloudscraper = require('cloudscraper');
-const site = "https://www.guatemala.gob.gt";
+const site = "https://www.dgi.gob.ni";
 
 let promises = [];
 
