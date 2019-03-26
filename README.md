@@ -30,7 +30,7 @@ Usage
 ```javascript
 Install on Kali/Debian
 
-git clone https://github.com/dcodeni/cloudAttack.git
+git clone https://github.com/yottaiq/CloudAttack.git
 cd cloudAttack
 chmod +x install.sh
 ./install.sh or bash install.sh
